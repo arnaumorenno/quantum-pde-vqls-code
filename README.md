@@ -1,6 +1,6 @@
 # quantum-pde-vqls-code
 
-# Quantum Algorithm Implementation — Thesis Code
+# VWLS Quantum Algorithm Implementation — Thesis Code
 
 This repository contains all code written for the thesis:
 **"Quantum Computing for Solving PDEs"**
