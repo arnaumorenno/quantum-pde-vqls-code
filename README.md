@@ -3,7 +3,7 @@
 # VQLS Quantum Algorithm Implementation — Thesis Code
 
 This repository contains all code written for the thesis:
-**"Quantum Computing for Solving PDEs"**
+**"An Exploration on Quantum Computing for Solving 1-Dimensional Non-Linear Viscous Burgers’ Equation"**
 Arnau Moreno Sánchez — Lund University, 2026
 
 ## Overview
@@ -35,4 +35,4 @@ and API token set as an environment variable.
 
 ## Citation
 If you use this code, please cite:
-Moreno Sánchez, A. "Quantum Computing for Solving PDEs" Lund University, 2026.
+Moreno Sánchez, A. "An Exploration on Quantum Computing for Solving 1-Dimensional Non-Linear Viscous Burgers’ Equation" Lund University, 2026.
